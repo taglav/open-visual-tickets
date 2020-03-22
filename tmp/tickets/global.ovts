@@ -1,0 +1,4 @@
+( ticketName Global-Utilities )
+( ticketWidth 86 ticketHeight 194 ticketStyle Octubre )
+( ticketIcon /local/pic2.png ticketLocal 2 )
+( ticketEvent #event )

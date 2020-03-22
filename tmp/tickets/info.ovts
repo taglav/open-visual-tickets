@@ -1,0 +1,4 @@
+( ticketName Simple-Info )
+( ticketWidth 86 ticketHeight 194 ticketStyle #style )
+( ticketIcon /local/pic.png ticketLocal 0 )
+( ticketEvent #event )

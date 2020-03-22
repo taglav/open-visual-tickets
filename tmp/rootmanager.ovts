@@ -1,0 +1,3 @@
+( prefixPath /usr/local/share/src/america/open-visual-tickets/tmp/tickets )
+( acceptableExtension .ovts fileNameMaxLen 16 )
+( maxTickets 20 )
